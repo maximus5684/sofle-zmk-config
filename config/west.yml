@@ -5,7 +5,7 @@ manifest:
   projects:
     - name: zmk
       remote: zmkfirmware
-      revision: feature/sofle_rgb_keyhive
+      revision: sofle_rgb_keyhive_dual_encoders
       import: app/west.yml
   self:
     path: config
